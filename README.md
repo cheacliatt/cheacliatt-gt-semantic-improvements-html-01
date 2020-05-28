@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage has been improved with the semanic accessibilitiy elements offered by HTML5. The goal is to make it more accessible for users suffering from impairments. Notable changes include allocating all <!-- div --> elements into ones that offer a more specific description of what the page is conveying. It should be also noted that the code has been further organized and improved for the convenience of futer collaborators.
+This webpage has been improved with the semanic accessibility elements offered by HTML5. The goal is to make it more accessible for users suffering from impairments. Notable changes include allocating all <!-- div --> elements into ones that offer a more specific description of what the page is conveying. It should be also noted that the code has been further organized and improved for the convenience of futer collaborators.
 
 ## Installation
 
@@ -10,5 +10,5 @@ This code can be forked onto one's local device through GitHub. Please make sure
 
 ## Usage
 
-The primary usage for this code is for the company Horiseon. 
+The primary usage for this code is for the company Horiseon. This webpage can be also used as an example of correct accessibility for potential learners of HTML5.
 
