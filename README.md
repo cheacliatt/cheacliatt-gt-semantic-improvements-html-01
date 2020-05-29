@@ -1,5 +1,4 @@
 # HTML Semantic Improvements
-![screenshot of the worked on website](assets\images\webPageScreenShot.PNG)
 
 ## Description
 
